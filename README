@@ -1,0 +1,10 @@
+This file contains the binary setup-version of pTk-dbfdump.
+For details about basic functionality see XBase.pm.
+
+You will be able to convert nearly each DBF-file to at least:
+CVS format. 
+
+Source will be will be installed during setup or look at
+"xdbfdump-0.03.tar.gz" in archive.
+
+22-Jan-1999 Dirk Tostmann (tostmann@tosti.com)
